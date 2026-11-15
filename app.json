@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "FogChat Mobile",
+    "slug": "fogchat-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#0B0E14",
+    "splash": {
+      "backgroundColor": "#0B0E14",
+      "resizeMode": "contain"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.fogchat.mobile",
+      "backgroundColor": "#0B0E14"
+    },
+    "android": {
+      "package": "com.fogchat.mobile",
+      "backgroundColor": "#0B0E14",
+      "adaptiveIcon": {
+        "backgroundColor": "#0B0E14",
+        "foregroundImage": "./assets/android-icon-foreground.png"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-status-bar"
+    ]
+  }
+}

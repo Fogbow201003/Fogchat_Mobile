@@ -1,0 +1,28 @@
+export const SYSTEM_EMOJIS = [
+  { shortcode: ':smile:', char: '😄', name: 'smile' },
+  { shortcode: ':laughing:', char: '😂', name: 'laughing' },
+  { shortcode: ':heart:', char: '❤️', name: 'heart' },
+  { shortcode: ':fire:', char: '🔥', name: 'fire' },
+  { shortcode: ':thumbsup:', char: '👍', name: 'thumbsup' },
+  { shortcode: ':tada:', char: '🎉', name: 'tada' },
+  { shortcode: ':rocket:', char: '🚀', name: 'rocket' },
+  { shortcode: ':100:', char: '💯', name: '100' },
+  { shortcode: ':eyes:', char: '👀', name: 'eyes' },
+  { shortcode: ':clap:', char: '👏', name: 'clap' },
+  { shortcode: ':pray:', char: '🙏', name: 'pray' },
+  { shortcode: ':check:', char: '✅', name: 'check' },
+  { shortcode: ':thinking:', char: '🤔', name: 'thinking' },
+  { shortcode: ':cool:', char: '😎', name: 'cool' },
+  { shortcode: ':sparkles:', char: '✨', name: 'sparkles' },
+  { shortcode: ':zap:', char: '⚡', name: 'zap' },
+  { shortcode: ':bulb:', char: '💡', name: 'bulb' },
+  { shortcode: ':pin:', char: '📌', name: 'pin' },
+  { shortcode: ':star:', char: '⭐', name: 'star' },
+  { shortcode: ':wave:', char: '👋', name: 'wave' },
+  { shortcode: ':coffee:', char: '☕', name: 'coffee' },
+  { shortcode: ':party:', char: '🥳', name: 'party' },
+  { shortcode: ':love:', char: '😍', name: 'love' },
+  { shortcode: ':sob:', char: '😭', name: 'sob' },
+];
+
+export const QUICK_REACTIONS = ['👍', '❤️', '🔥', '😂', '🎉', '🚀', '👀', '💯'];
